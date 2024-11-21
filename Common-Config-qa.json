@@ -1,1 +1,3 @@
-https://otel-collector.apps.app03.qa1-use1.int-kfone.com
+{
+  "OpenTelemetryCollectorEndpoint": https://otel-collector.apps.app03.qa1-use1.int-kfone.com
+}
