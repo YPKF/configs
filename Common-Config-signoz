@@ -1,0 +1,3 @@
+{
+  "OpenTelemetryCollectorEndpoint": "https://otel-collector.dev-use1.int-kfone.com"
+}
