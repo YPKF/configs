@@ -1,6 +1,6 @@
 {
   "HRMS": "Warning",
-  "IAM": "Warning",
+  "IAM": "Info",
   "IDW": "Warning",
   "INSIGHTS": "Warning",
   "REFERENCEMODULE": "Warning"
