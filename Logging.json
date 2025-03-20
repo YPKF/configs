@@ -3,5 +3,8 @@
   "IAM": "Info",
   "IDW": "Warning",
   "INSIGHTS": "Warning",
-  "REFERENCEMODULE": "Warning"
+  "REFERENCEMODULE": "Warning",
+  "WORKFLOWORCHESTRATION": "Warning",
+  "USEREXPERIENCE": "Warning",
+  "CONNECT": "Warning"
 }
