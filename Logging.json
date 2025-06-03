@@ -6,5 +6,9 @@
   "REFERENCEMODULE": "Warning",
   "WORKFLOWORCHESTRATION": "Warning",
   "USEREXPERIENCE": "Warning",
-  "CONNECT": "Warning"
+  "CONNECT": "Warning",
+  "KFNR": "Warning",
+  "LISTEN": "Warning"
+  "PROFILEMANAGER": "Warning",
+  "PAYEQUITY": "Warning",
 }
