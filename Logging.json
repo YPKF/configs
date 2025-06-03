@@ -10,5 +10,5 @@
   "KFNR": "Warning",
   "LISTEN": "Warning"
   "PROFILEMANAGER": "Warning",
-  "PAYEQUITY": "Warning",
+  "PAYEQUITY": "Info",
 }
