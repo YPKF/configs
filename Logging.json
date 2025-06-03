@@ -8,7 +8,7 @@
   "USEREXPERIENCE": "Warning",
   "CONNECT": "Warning",
   "KFNR": "Warning",
-  "LISTEN": "Warning"
+  "LISTEN": "Warning",
   "PROFILEMANAGER": "Warning",
   "PAYEQUITY": "Info",
 }
