@@ -11,5 +11,5 @@
   "LISTEN": "Warning",
   "PROFILEMANAGER": "Warning",
   "PAYEQUITY": "Info",
-  "CORE": "Warning"
+  "CORE": "Info"
 }
