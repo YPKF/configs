@@ -12,6 +12,6 @@
   "LISTEN": "Warning",
   "PROFILEMANAGER": "Warning",
   "ARCHITECT": "Warning",
-  "JOBMAPPING": "Warning" 
-  "CORE": "Info",
+  "JOBMAPPING": "Warning",
+  "CORE": "Info"
 }
