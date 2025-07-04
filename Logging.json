@@ -8,10 +8,12 @@
     "WORKFLOWORCHESTRATION": "Warning",
     "USEREXPERIENCE": "Warning",
     "CONNECT": "Warning",
-    "KFNR": "Warning",
+    "KFNR": "Info",
     "LISTEN": "Warning",
     "PROFILEMANAGER": "Warning",
     "ARCHITECT": "Warning",
     "JOBMAPPING": "Warning",
-    "CORE": "Info"
+    "CORE": "Info",
+    "KFNRHUB": "Info",
+    "HIRINGMANAGER": "Info"
 }
