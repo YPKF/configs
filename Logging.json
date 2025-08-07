@@ -20,10 +20,10 @@
   "PROFILEMANAGER": "Warning",
   "REFERENCEMODULE": "Warning",
   "THPORTAL": "Warning",
-  "UCP-SPS": "Warning",
+  "UCPSPS": "Warning",
   "USEREXPERIENCE": "Warning",
   "WORKFLOWORCHESTRATION": "Warning",
   "kf-onboarding": "Warning",
   "kfpay-cpt": "Warning",
-  "orgd": "Warning"
+  "ORGD": "Warning"
 }
