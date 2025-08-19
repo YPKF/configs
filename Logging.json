@@ -15,7 +15,7 @@
   "LISTEN": "Info",
   "MULTISOURCEDATA": "Warning",
   "PAYDATACOLLECTION": "Warning",
-  "PAYEQUITY": "Warning",
+  "PAYEQUITY": "Info",
   "PAYREPORTING": "Warning",
   "PROFILEMANAGER": "Warning",
   "REFERENCEMODULE": "Warning",
