@@ -1,6 +1,6 @@
 {
   "ARCHITECT": "Warning",
-  "CONNECT": "Warning",
+  "CONNECT": "Info",
   "CORE": "Warning",
   "HIRINGMANAGER": "Warning",
   "HRMS": "Warning",
