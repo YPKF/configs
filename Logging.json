@@ -11,7 +11,7 @@
   "INSIGHTS": "Warning",
   "JOBMAPPING": "Warning",
   "KFNR": "Warning",
-  "KFNRHUB": "Warning",
+  "KFNRSPOKE": "Warning",
   "LISTEN": "Info",
   "MULTISOURCEDATA": "Warning",
   "PAYDATACOLLECTION": "Warning",
