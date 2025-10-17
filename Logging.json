@@ -14,6 +14,7 @@
   "KFNRSPOKE": "Warning",
   "LISTEN": "Info",
   "MULTISOURCEDATA": "Warning",
+  "PAYANALYTICSSERVICE": "Warning",
   "PAYDATACOLLECTION": "Warning",
   "PAYEQUITY": "Info",
   "PAYREPORTING": "Warning",
@@ -26,4 +27,5 @@
   "kf-onboarding": "Warning",
   "kfpay-cpt": "Warning",
   "ORGD": "Warning"
+  "SJPRSERVICE": "Warning"
 }
