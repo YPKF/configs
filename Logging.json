@@ -24,8 +24,8 @@
   "UCPSPS": "Warning",
   "USEREXPERIENCE": "Warning",
   "WORKFLOWORCHESTRATION": "Warning",
+  "SJPRSERVICE": "Warning",
   "kf-onboarding": "Warning",
   "kfpay-cpt": "Warning",
   "ORGD": "Warning"
-  "SJPRSERVICE": "Warning"
 }
