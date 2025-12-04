@@ -28,5 +28,6 @@
   "kf-onboarding": "Warning",
   "kfpay-cpt": "Warning",
   "AIFEEDBACK": "Warning",
+  "AIFEEDBACKEDITOR": "Info",
   "ORGD": "Warning"
 }
